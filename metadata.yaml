@@ -1,0 +1,32 @@
+_repo: The-Industrial-Arts-in-Spain_39602
+_version: 0.1.0
+alternative_title: Spanish arts
+covers:
+- cover_type: archival
+  image_path: 39602-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Riaño, Juan F. (Juan Facundo)
+    aliases:
+    - Riano, Juan F. (Juan Facundo)
+    - Riaño, Juan Facundo
+    birthdate: 1829
+    deathdate: 1901
+    gutenberg_agent_id: '40097'
+    url: http://www.gutenberg.org/2009/agents/40097
+    wikipedia: http://es.wikipedia.org/wiki/Juan_Facundo_Ria%C3%B1o_y_Montero#Enlaces_externos
+description: ''
+gutenberg_issued: '2012-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39602'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pottery -- Spain -- History'
+- !lcc 'NK'
+- !lcsh 'Decorative arts -- Spain -- History'
+title: The Industrial Arts in Spain
+url: http://www.gutenberg.org/ebooks/39602
